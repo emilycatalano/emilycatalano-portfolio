@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Emily Catalano's Tech Portfolio
 ---
 
